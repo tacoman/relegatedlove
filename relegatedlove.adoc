@@ -227,7 +227,7 @@ WOULD YOU LIKE TO EDIT? > NO
 ENTER COMMAND > QUIT
 ----
 
-Alexi nodded, satisfied, then unplugged the security key and began to pack up his laptop.
+Alexi nodded, satisfied, then unplugged the security key and set it down for a moment as he began to pack up his laptop.
 
 "This is ridiculous," the man next to him said.
 "Why would I ever watch this crap soccer on the TV when there's no connection with the lower leagues?"
@@ -285,7 +285,7 @@ There could be no doubt about that.
 They laid there together and cuddled through the evening.
 Tomorrow, Alexi would call his bosses and report the other thing he had picked up this evening: the way to defeat the Alliance.
 
-== Chapter: A New Division
+== Chapter Five
 
 "And so," the holographic image of Noruhl said, "he gave me the insight we need to defeat ANAL."
 
@@ -324,6 +324,75 @@ A moment later, the mustachioed owner of the most infamous team of the Alliance 
 
 "I understand you're trying to leave," Grabber said.
 "I believe I can offer you very, very agreeable terms..."
+
+== Chapter Six
+
+"I don't understand," you say from your seat in the Detroit City Clubhouse.
+"You found what again?"
+
+"It's a security key," the needlessly shirtless hacker in front of you says, a hint of glisten on their pecs.
+"Found it at the bar at a Buffalo Wild Wings."
+
+"You're still eating there?" someone else at the table asks.
+"The food at that place is saltier than a Chattanooga podcaster."
+
+"Only when it's required to make a plot work. 
+That's not important, though. 
+What is important is what's on this sucker."
+They fidget with the drive in their fingers, clearly overexcited.
+"It's a remote access key for US Soccer.
+You plug this into a PC and you're past every firewall that org has- dropped straight into the corporate intranet.
+I poked around with it earlier- you can see damn near anything."
+A devilish glint was showing in their eyes.
+At least you think it is.
+That might just be how they look all the time.
+
+"So... what are you going to do with it?" you ask.
+
+This time there's no mistaking it.
+The grin you get in response is feral.
+
+"We're going to go fill this Clubhouse _with crime_."
+
+== Chapter Seven
+
+In the US Soccer Network Security Operations Center, lights began to flash from green to red like an overwrought Christmas tree on display at Bronner's.
+"What's going on?" the incident commander asked, scrutinizing the network topology graph.
+
+"Ransomware worm," one of the analysts said, typing furiously and in clear distress.
+
+"Origin?"
+
+"Still working on that," the analyst said, a stream of hexadecimal characters scrolling furiously down her monitor.
+"Memory dumps don't appear to match any new messages in any inboxes.
+There's nothing in the SIEM indicating an attack on the perimeter.
+It's almost as if this problem originated on the inside to begin with."
+
+The incident commander nodded.
+"What operational abilities are impacted?"
+
+"20% of end-user machines have already been encrypted, but for the most part all of the work was either backed up or it helps us to have accidentally lost it given the ongoing hydra lawsuit," the analyst said.
+"Holotank phone banks are all down.
+And it appears that payment processor #5 is unable to use its outbound modem for some reason."
+
+"Which one is processor #5?" the commander asked. "Those are all mainframes that are running code that dates back before the first NASL, aren't they?"
+
+"That's 1-4, sir.
+#5 is the latter-day special projects system that's used for information operations. Think cassette tapes instead of punchcard decks."
+
+The commander froze.
+She knew #5 was bad news.
+"Isolate the affected network segments immediately. 
+Bringing processor #5 back up is your immediate priority.
+Get in touch with the hacker if you can and pay the ransom on that.
+We only have four hours until the weekly batch run on that processor and if it doesn't go, it can't run again until the week after."
+
+The commander sprinted out of the SOC into her office, closed the door, and dialed Commissioner Grabber.
+"We have a problem," she said.
+
+== Chapter Eight
+
+
 
 == Chapter Crossover
 
