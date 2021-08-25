@@ -1,6 +1,5 @@
 = Relegated Love
 Taco
-v0.0, 2021-06
 :doctype: book
 
 == Chapter One
