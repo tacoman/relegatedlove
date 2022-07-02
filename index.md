@@ -11,3 +11,4 @@ The book(s) here were written as part of a bet that NGS could raise above a cert
 They're almost as difficult for you to read as they were for me to write.
 
 Reader discretion is advised and can be exercised via your browser's close tab button.
+Otherwise, [download the ebook in EPUB format](downloads/relegatedlove.epub) or go to the [table of contents](_posts/toc.md).
