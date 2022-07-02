@@ -1,3 +1,8 @@
+---
+title: "Table of Contents"
+permalink: /toc/
+---
+
 ## Book One: Relegated Love
 
 * [Chapter 1](book1-ch1.md)
