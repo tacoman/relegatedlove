@@ -1,0 +1,1 @@
+asciidoctor-epub3 -D output book2.adoc 
