@@ -1,4 +1,4 @@
-= 1001 Football Crimes
+
 Robert Mason
 :doctype: book
 
@@ -1109,7 +1109,7 @@ Yes, you, dear reader.
 
 "You sssimply cannot defeat me by appealing to the power of friendssship," Quick said.
 "You ssshall die very, very soon."
-95%.s
+95%.
 
 "Probably accurate," I said.
 "And I'm really going to hate to be left here hanging for however long it takes until the next campaign."
